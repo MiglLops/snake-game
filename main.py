@@ -9,7 +9,7 @@ tela = pygame.display.set_mode((largura, altura))
 relogio = pygame.time.Clock()
 
 #cores RGB
-preto = (0, 155, 0)
+preto = (0, 0, 0)
 branco = (255, 255, 255)
 verde = (0, 255, 0)
 
