@@ -1,5 +1,5 @@
 --SNAKE GAME--
-- *--resumo--*
+*--resumo--*
 - aquele jogo da cobrinha antigo e legal
 
 --MAIN.PY-- 27/01/2025 (N/A)
