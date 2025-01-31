@@ -35,3 +35,4 @@
 - Velocidade inicial = 5;
 - De 5 de velocidade ate 10 cada fruta lhe da um aumento de 1 na velocidade;
 - A partir de 11 de velocidade cada fruta lhe dara um aumento de 0.5 na velocidade.
+- -**Removido a tela de troca de resolucoes,deixando apenas a resolucao 600x400 como padrao**-
