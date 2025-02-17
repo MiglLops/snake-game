@@ -1,6 +1,6 @@
 --SNAKE GAME--
 *--resumo--*
-- aquele jogo da cobrinha antigo e legal
+- Snake Game, meu primeiro jogo em python.
 
 --MAIN.PY-- 27/01/2025 (N/A)
 - Versao 1.0 crua do jogo com varios pontos faltando mas com a ideia base sendo colocada na pratica da forma certa usando o tutorial do "Canal Hashtag" como guia.
@@ -36,3 +36,22 @@
 - De 5 de velocidade ate 10 cada fruta lhe da um aumento de 1 na velocidade;
 - A partir de 11 de velocidade cada fruta lhe dara um aumento de 0.5 na velocidade.
 - -**Removido a tela de troca de resolucoes,deixando apenas a resolucao 600x400 como padrao**-
+
+--SNAKE GAME 1.4-- 15/02/2025 - 17/02/2025 (19:38)
+-Versao 1.4 trouxe o retorno de uma tela de configuracoes que ja foi vista em veroes passadas com a modificacao na velocidade da cobra e tamanho do mapa.
+- *Tela de Configuracao*
+- Opcoes de niveis de velocidade:
+- NV 1 - VEL = 1;
+- NV 2 (padrao) - VEL = 5;
+- NV 3 - VEL = 15.
+- Opcoes de tamanho do mapa (quadrados):
+- NV 1 - Escala grande (facil);
+- NV 2 - Escala padrao (medio);
+- NV 3 - Escala extra pequena (dificil).
+- *Adicoes no Jogo*
+- Caso o tamanho da mapa seja "NV 1" ou "NV 2" a cobra nao morre se bater na parede mas sim saira na outra extremidade;
+- Se o jogador pressionar "ESC" durante o jogo, ele voltara para a tela inicial;
+- Adicionado um texto que exibe a velocidade do jogador;
+- Um pixel verde ao lado superior esquerdo da fruta.
+- *Tela Game Over*
+- Agora existe uma tela de Game Over melhor,adicionando a opcao de click "Resetar - Sair" ou apertar "R - Q";
